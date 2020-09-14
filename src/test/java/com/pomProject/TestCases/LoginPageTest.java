@@ -1,10 +1,12 @@
 package com.pomProject.TestCases;
 
 
+import org.openqa.selenium.WebDriver;
 import org.testng.Assert;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
+import org.testng.log4testng.Logger;
 
 import com.pomProject.Base.TestBase;
 import com.pomProject.Pages.HomePage;
@@ -17,7 +19,7 @@ public class LoginPageTest extends TestBase {
      LoginPage loginpage; 
      HomePage homepage;
 	
-	
+    
 	public LoginPageTest()
 	{
 		super();

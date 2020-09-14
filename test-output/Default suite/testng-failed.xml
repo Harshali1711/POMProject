@@ -3,13 +3,14 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.pomProject.TestCases.ContactsPageTest">
+      <class name="com.pomProject.TestCases.LoginPageTest">
         <methods>
-          <include name="tearDown"/>
-          <include name="ValidateCreateNewContact"/>
           <include name="Setup"/>
+          <include name="crmImageLogoTest"/>
+          <include name="loginTest"/>
+          <include name="tearDown"/>
         </methods>
-      </class> <!-- com.pomProject.TestCases.ContactsPageTest -->
+      </class> <!-- com.pomProject.TestCases.LoginPageTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
