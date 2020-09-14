@@ -1,0 +1,9 @@
+com\pomProject\Pages\DealsPage.class
+com\pomProject\Pages\ContactsPage.class
+com\pomProject\Utils\WebEventListener.class
+com\pomProject\Base\TestBase.class
+com\pomProject\Pages\HomePage.class
+com\pomProject\ExtentReportListener\ExtentReporterNG.class
+com\pomProject\Pages\LoginPage.class
+com\pomProject\Utils\TestUtil.class
+com\pomProject\Pages\TasksPage.class

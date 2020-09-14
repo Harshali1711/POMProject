@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="3" total="7" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-09-14T18:43:43 AEST" name="Free CRM Application" finished-at="2020-09-14T18:45:15 AEST" duration-ms="91949">
+    <groups>
+    </groups>
+    <test started-at="2020-09-14T18:43:43 AEST" name="Automation Regression Tests" finished-at="2020-09-14T18:45:15 AEST" duration-ms="91949">
+      <class name="com.pomProject.TestCases.ContactsPageTest">
+        <test-method is-config="true" signature="Setup()[pri:0, instance:com.pomProject.TestCases.ContactsPageTest@12b0404f]" started-at="2020-09-14T18:43:43 AEST" name="Setup" finished-at="2020-09-14T18:43:59 AEST" duration-ms="15618" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="ValidateCreateNewContactDDT(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:4, instance:com.pomProject.TestCases.ContactsPageTest@12b0404f]" started-at="2020-09-14T18:43:59 AEST" name="ValidateCreateNewContactDDT" data-provider="getContactData" finished-at="2020-09-14T18:44:06 AEST" duration-ms="7533" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Ms.]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Khushali]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Desai]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[NAB]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Amit]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateCreateNewContactDDT -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.pomProject.TestCases.ContactsPageTest@12b0404f]" started-at="2020-09-14T18:44:06 AEST" name="tearDown" finished-at="2020-09-14T18:44:07 AEST" duration-ms="747" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="Setup()[pri:0, instance:com.pomProject.TestCases.ContactsPageTest@12b0404f]" started-at="2020-09-14T18:44:07 AEST" name="Setup" finished-at="2020-09-14T18:44:21 AEST" duration-ms="14142" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="ValidateCreateNewContactDDT(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:4, instance:com.pomProject.TestCases.ContactsPageTest@12b0404f]" started-at="2020-09-14T18:44:21 AEST" name="ValidateCreateNewContactDDT" data-provider="getContactData" finished-at="2020-09-14T18:44:29 AEST" duration-ms="7709" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Ms.]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Manali]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Joshi]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[INFOSYS]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Mayur]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateCreateNewContactDDT -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.pomProject.TestCases.ContactsPageTest@12b0404f]" started-at="2020-09-14T18:44:29 AEST" name="tearDown" finished-at="2020-09-14T18:44:30 AEST" duration-ms="817" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="Setup()[pri:0, instance:com.pomProject.TestCases.ContactsPageTest@12b0404f]" started-at="2020-09-14T18:44:30 AEST" name="Setup" finished-at="2020-09-14T18:44:44 AEST" duration-ms="14211" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="ValidateCreateNewContactDDT(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:4, instance:com.pomProject.TestCases.ContactsPageTest@12b0404f]" started-at="2020-09-14T18:44:44 AEST" name="ValidateCreateNewContactDDT" data-provider="getContactData" finished-at="2020-09-14T18:44:51 AEST" duration-ms="7312" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Mr.]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Bhavya]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Mehta]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Cybage]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Amit]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateCreateNewContactDDT -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.pomProject.TestCases.ContactsPageTest@12b0404f]" started-at="2020-09-14T18:44:51 AEST" name="tearDown" finished-at="2020-09-14T18:44:52 AEST" duration-ms="738" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="Setup()[pri:0, instance:com.pomProject.TestCases.ContactsPageTest@12b0404f]" started-at="2020-09-14T18:44:52 AEST" name="Setup" finished-at="2020-09-14T18:45:06 AEST" duration-ms="13807" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="ValidateCreateNewContactDDT(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:4, instance:com.pomProject.TestCases.ContactsPageTest@12b0404f]" started-at="2020-09-14T18:45:06 AEST" name="ValidateCreateNewContactDDT" data-provider="getContactData" finished-at="2020-09-14T18:45:14 AEST" duration-ms="7725" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Ms.]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Khushi]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Desai]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[NAB]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Amit]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateCreateNewContactDDT -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.pomProject.TestCases.ContactsPageTest@12b0404f]" started-at="2020-09-14T18:45:14 AEST" name="tearDown" finished-at="2020-09-14T18:45:15 AEST" duration-ms="879" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.pomProject.TestCases.ContactsPageTest -->
+    </test> <!-- Automation Regression Tests -->
+  </suite> <!-- Free CRM Application -->
+</testng-results>

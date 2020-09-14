@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-09-14T20:52:48 AEST" name="Free CRM Application" finished-at="2020-09-14T20:53:55 AEST" duration-ms="66409">
+    <groups>
+    </groups>
+    <test started-at="2020-09-14T20:52:48 AEST" name="Automation Regression Tests" finished-at="2020-09-14T20:53:55 AEST" duration-ms="66409">
+      <class name="com.pomProject.TestCases.HomePageTest">
+        <test-method is-config="true" signature="Setup()[pri:0, instance:com.pomProject.TestCases.HomePageTest@5d740a0f]" started-at="2020-09-14T20:53:26 AEST" name="Setup" finished-at="2020-09-14T20:53:39 AEST" duration-ms="12866" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="VeriTitleHomePage()[pri:1, instance:com.pomProject.TestCases.HomePageTest@5d740a0f]" started-at="2020-09-14T20:53:39 AEST" name="VeriTitleHomePage" finished-at="2020-09-14T20:53:39 AEST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VeriTitleHomePage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.pomProject.TestCases.HomePageTest@5d740a0f]" started-at="2020-09-14T20:53:39 AEST" name="tearDown" finished-at="2020-09-14T20:53:40 AEST" duration-ms="671" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="Setup()[pri:0, instance:com.pomProject.TestCases.HomePageTest@5d740a0f]" started-at="2020-09-14T20:53:40 AEST" name="Setup" finished-at="2020-09-14T20:53:54 AEST" duration-ms="14613" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="VerifyUserNameTest()[pri:2, instance:com.pomProject.TestCases.HomePageTest@5d740a0f]" started-at="2020-09-14T20:53:54 AEST" name="VerifyUserNameTest" finished-at="2020-09-14T20:53:54 AEST" duration-ms="66" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyUserNameTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.pomProject.TestCases.HomePageTest@5d740a0f]" started-at="2020-09-14T20:53:54 AEST" name="tearDown" finished-at="2020-09-14T20:53:55 AEST" duration-ms="617" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.pomProject.TestCases.HomePageTest -->
+      <class name="com.pomProject.TestCases.LoginPageTest">
+        <test-method is-config="true" signature="Setup()[pri:0, instance:com.pomProject.TestCases.LoginPageTest@2b546384]" started-at="2020-09-14T20:52:48 AEST" name="Setup" finished-at="2020-09-14T20:52:58 AEST" duration-ms="9609" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="loginPageTitleTest()[pri:1, instance:com.pomProject.TestCases.LoginPageTest@2b546384]" started-at="2020-09-14T20:52:58 AEST" name="loginPageTitleTest" finished-at="2020-09-14T20:52:58 AEST" duration-ms="15" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageTitleTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.pomProject.TestCases.LoginPageTest@2b546384]" started-at="2020-09-14T20:52:58 AEST" name="tearDown" finished-at="2020-09-14T20:52:59 AEST" duration-ms="680" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="Setup()[pri:0, instance:com.pomProject.TestCases.LoginPageTest@2b546384]" started-at="2020-09-14T20:52:59 AEST" name="Setup" finished-at="2020-09-14T20:53:08 AEST" duration-ms="9072" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="crmImageLogoTest()[pri:2, instance:com.pomProject.TestCases.LoginPageTest@2b546384]" started-at="2020-09-14T20:53:08 AEST" name="crmImageLogoTest" finished-at="2020-09-14T20:53:08 AEST" duration-ms="55" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- crmImageLogoTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.pomProject.TestCases.LoginPageTest@2b546384]" started-at="2020-09-14T20:53:08 AEST" name="tearDown" finished-at="2020-09-14T20:53:09 AEST" duration-ms="638" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="Setup()[pri:0, instance:com.pomProject.TestCases.LoginPageTest@2b546384]" started-at="2020-09-14T20:53:09 AEST" name="Setup" finished-at="2020-09-14T20:53:18 AEST" duration-ms="8929" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="loginTest()[pri:3, instance:com.pomProject.TestCases.LoginPageTest@2b546384]" started-at="2020-09-14T20:53:18 AEST" name="loginTest" finished-at="2020-09-14T20:53:21 AEST" duration-ms="3826" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.pomProject.TestCases.LoginPageTest@2b546384]" started-at="2020-09-14T20:53:21 AEST" name="tearDown" finished-at="2020-09-14T20:53:26 AEST" duration-ms="4711" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.pomProject.TestCases.LoginPageTest -->
+    </test> <!-- Automation Regression Tests -->
+  </suite> <!-- Free CRM Application -->
+</testng-results>
